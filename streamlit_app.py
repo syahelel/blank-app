@@ -1,4 +1,4 @@
-import google_play_scraper
+
 import streamlit as st
 import datetime
 from google_play_scraper import Sort, reviews_all
