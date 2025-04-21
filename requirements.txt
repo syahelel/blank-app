@@ -1,7 +1,9 @@
 streamlit
+google-play-scraper
+pandas
 numpy
 scikit-learn
+matplotlib
 seaborn
-pandas
-sastrawi
-google_play_scraper
+Sastrawi
+wordcloud
